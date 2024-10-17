@@ -6,9 +6,11 @@
         -webkit-background-size: cover;
         -o-background-size: cover;
     }
-
+    :root {
+        --blanco: white;
+    }
     h3, article {
-        color:  white;
+        color:  var(--blanco);
     }
 
 }
