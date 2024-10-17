@@ -1,0 +1,4 @@
+GIT
+https://github.com/nathanbernalduoc/duoc_tienda_juegos
+TRELLO
+https://trello.com/b/kQE5OW0l/duoc-fullstack-2
